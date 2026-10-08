@@ -68,5 +68,3 @@ docker run -d --name work-time-tracker \
 ## ライセンス
 
 Apache License 2.0（`LICENSE` を参照）。
-
-<!-- 同期の確認用。あとで消します -->
